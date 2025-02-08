@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: brown;
+    height: 80px;
+    width: 100%;
+}
+h1{
+    color: whitesmoke;
+    position: absolute;
+    left: 120px;
+    top:0;
+    line-height: 75px;
+}
+header ul {
+    position:absolute;
+    right: 5vw;
+    top:0;
+    line-height: 75px;
+}
+header li{
+    display: inline;
+    margin-right: 4vw;
+}
+header a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+.han {
+    background-color: rgb(167, 167, 255);
+}
+.wei{
+    background-color: antiquewhite;
+    color:whitesmoke;
+    height: 85vh;
+    background-image: url(img/WhatsApp\ Image\ 2025-02-08\ at\ 17.10.53_4a77b0df.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.wei h2{
+    font-size: 40px;
+}   
+.wei h3{
+    font-size: 18px;
+}
+.han{
+    background-color: antiquewhite;
+    color:whitesmoke;
+    height: 85vh;
+    background-image: url(img/WhatsApp\ Image\ 2025-02-08\ at\ 17.17.05_e28ef3d3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.han h2{
+    font-size: 40px;
+}   
+.han h3{
+    font-size: 18px;
+}
+.xiang{
+    background-color: antiquewhite;
+    color:whitesmoke;
+    height: 85vh;
+    background-image: url(img/WhatsApp\ Image\ 2025-02-08\ at\ 17.13.14_dbcd00dc.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.xiang h2{
+    font-size: 40px;
+}   
+.xiang h3{
+    font-size: 18px;
+}
